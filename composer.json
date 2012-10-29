@@ -1,0 +1,14 @@
+{
+    "name": "cunningsoft/xajax",
+    "description": "Xajax ajax library",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Daniel Mecke",
+            "email": "daniel.mecke@cunningsoft.de"
+        }
+    ],
+    "require": {
+
+    }
+}
